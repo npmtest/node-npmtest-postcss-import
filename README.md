@@ -1,6 +1,6 @@
 # npmtest-postcss-import
 
-#### test coverage for  [postcss-import (v9.1.0)](https://github.com/postcss/postcss-import#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-import.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-import) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-import.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-import)
+#### basic test coverage for  [postcss-import (v9.1.0)](https://github.com/postcss/postcss-import#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-import.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-import) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-import.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-import)
 
 #### PostCSS plugin to import CSS files
 
